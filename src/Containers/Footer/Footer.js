@@ -26,11 +26,11 @@ function Footer() {
                     <div className="footer-third">
                         <h3>LINKS</h3>
                         <ul>
-                            <li><a href="index.html">HOME</a></li>
-                            <li><a href="products.html">APPAREL</a></li>
-                            <li><a href="products.html">HATS</a></li>
-                            <li><a href="products.html">ACCESSORIES</a></li>
-                            <li><a href="products.html">SALE</a></li>
+                            <li><a href="@">HOME</a></li>
+                            <li><a href="#">APPAREL</a></li>
+                            <li><a href="#">HATS</a></li>
+                            <li><a href="#">ACCESSORIES</a></li>
+                            <li><a href="#">SALE</a></li>
                         </ul>
                     </div>
                     <div className="footer-third">
