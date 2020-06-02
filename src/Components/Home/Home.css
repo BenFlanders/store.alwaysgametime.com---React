@@ -1,0 +1,331 @@
+.hidden {
+    opacity: 0;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.product-showcase {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+main {
+    margin-top: 9rem;
+}
+
+.section-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-heading h1 {
+    text-align: center;
+    color: black;
+    width: 40%;
+    font-size: 2rem;
+}
+
+.section-heading h2 {
+    text-align: center;
+    color: black;
+    width: 40%;
+    font-size: 2rem;
+}
+
+.line {
+    background-color: black;
+    width: 100%;
+    height: .25rem;
+}
+
+.button {
+    font-size: 1.6rem;
+    color: #fff;
+    background-color: #242424;
+    border: 2px solid #242424;
+    padding: 1.5rem 3rem;
+    transition: background-color .3s, color .3s;
+    margin-top: 2rem;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.button:hover {
+    color: #242424;
+    background-color: #e7e7e7;
+}
+
+.shipping {
+    margin-top: 16rem;
+    width: 100%;
+    height: 30rem;
+    color: #fff;
+    background-color: #242424;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.shipping h3 {
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+    font-family: 'Passion One', Helvetica, sans-serif;
+}
+
+.shipping i {
+    font-size: 6rem;
+    margin-bottom: 3rem;
+}
+
+.shipping p {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.new-arrivals {
+    margin-top: 8rem;
+}
+
+.accessories-section {
+    margin-top: 16rem;
+}
+
+.trading-cards {
+    margin-top: 16rem;
+    width: 100%;
+    padding: 2rem;
+    color: #fff;
+    background-color: #242424;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.trading-cards h3 {
+    font-size: 4rem;
+    margin-bottom: .3rem;
+    font-family: 'Passion One', Helvetica, sans-serif;
+    text-align: center;
+}
+
+.trading-cards p {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.card-box {
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    width: 10rem;
+    height: 15rem;
+    background-color: #fff;
+    margin: 1rem 0;
+}
+
+.card1 {
+    background-image: url('../../imgs/card1.png');
+}
+
+.card2 {
+    background-image: url('../../imgs/card2.png');
+}
+
+.card3 {
+    background-image: url('../../imgs/card3.png');
+}
+
+.card4 {
+    background-image: url('../../imgs/card4.png');
+}
+
+.card5 {
+    background-image: url('../../imgs/card5.png');
+}
+
+.card6 {
+    background-image: url('../../imgs/card6.png');
+}
+
+.card7 {
+    background-image: url('../../imgs/card7.png');
+}
+
+.card8 {
+    background-image: url('../../imgs/card8.png');
+}
+
+.card9 {
+    background-image: url('../../imgs/card9.png');
+}
+
+.card10 {
+    background-image: url('../../imgs/card10.png');
+}
+
+.card11 {
+    background-image: url('../../imgs/card11.png');
+}
+
+.card12 {
+    background-image: url('../../imgs/card12.png');
+}
+
+.instagram-section {
+    margin-top: 8rem;
+}
+
+.instagram-section .section-heading {
+    margin-bottom: 4rem;
+}
+
+.posts {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 8rem;
+}
+
+.insta1 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta1.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta2 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta2.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta3 {
+    width: 19.2em;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta3.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta4 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta4.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta5 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta5.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta6 {
+    width: 19rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta6.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta7 {
+    width: 19rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta7.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.products {
+    width: 30rem;
+    height: 45rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.products h2 {
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-size: 1rem;
+}
+
+.products .price {
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+.product {
+    padding-top: 4rem;
+    width: 30rem;
+    height: 45rem;
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.product h2 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .3rem;
+    font-size: 1rem;
+}
+
+.product .price {
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+    .section-heading h1 {
+        width: 80%;
+    }
+    .section-heading h2 {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .shipping p {
+        margin-bottom: 2rem;
+    }
+    .section-heading h1 {
+        width: 100%;
+    }
+    .section-heading h2 {
+        width: 100%;
+    }
+}

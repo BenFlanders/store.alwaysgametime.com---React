@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "sku": "newLogoShirt",
+        "img": "newLogoShirt.png",
+        "title": "T-Shirt | New AGT Logo",
+        "price": 25,
+        "description": "NEW Official Channel Logo design. Shirts printed on Bella+ Canvas Unisex Jersey Short Sleeve Tee. Fabric: 100% ring-spun cotton",
+        "tag": "apparel"
+    },
+    {
+        "id": 2,
+        "sku": "oldLogoShirt",
+        "img": "fullOldLogoShirt.png",
+        "title": "T-Shirt | Retro Logo",
+        "price": 25,
+        "description": "Represent the retro logo that got us started! Shirts printed on Bella+ Canvas Unisex Jersey Short Sleeve Tee. Fabric: 100% ring-spun cotton",
+        "tag": "apparel"
+    },
+    {
+        "id": 3,
+        "sku": "oldLogoBlackShirt",
+        "img": "blackOldLogoShirt.png",
+        "title": "T-Shirt | Retro Logo - Black",
+        "price": 20,
+        "description": "Simple BLACKOUT Retro Logo design. Shirts printed on Bella+ Canvas Unisex Jersey Short Sleeve Tee. Fabric: 100% ring-spun cotton",
+        "tag": "apparel"
+    },
+    {
+        "id": 4,
+        "sku": "cartoonShirt",
+        "img": "cartoonShirt.png",
+        "title": "T-Shirt | Cartoon Logo",
+        "price": 25,
+        "description": "Brand NEW 'Achieve' logo design! Shirts printed on Bella+ Canvas Unisex Jersey Short Sleeve Tee. Fabric: 100% ring-spun cotton",
+        "tag": "apparel"
+    },
+    {
+        "id": 5,
+        "sku": "roscoeShirt",
+        "img": "roscoeShirt.png",
+        "title": "T-Shirt | Rip Roscoe",
+        "price": 25,
+        "description": "Gone, but not forgotten. RIP Roscoe. Shirts printed on Bella+ Canvas Unisex Jersey Short Sleeve Tee. Fabric: 100% ring-spun cotton",
+        "tag": "apparel"
+    },
+    {
+        "id": 6,
+        "sku": "whiteOldLogoShirt",
+        "img": "whiteOldLogoShirt.png",
+        "title": "T-Shirt | Retro Logo - White",
+        "price": 20,
+        "description": "Simple WHITEOUT Retro Logo design. Shirts printed on Bella+ Canvas Unisex Jersey Short Sleeve Tee. Fabric: 100% ring-spun cotton",
+        "tag": "apparel"
+    },
+    {
+        "id": 7,
+        "sku": "agtTextHoodie",
+        "img": "agtTextHoodie.png",
+        "title": "Hoodie | AGT Text",
+        "price": 30,
+        "description": "New Year New Look! Check out the Text based Logo Pull Over Hoodie! Hoodie is made with a 50% cotton, 50% polyester preshrunk fleece",
+        "tag": "apparel"
+    },
+    {
+        "id": 8,
+        "sku": "cartoonHoodie",
+        "img": "cartoonHoodie.png",
+        "title": "Hoodie | Cartoon Logo",
+        "price": 35,
+        "description": "Get your game on with the NEW 'Achieve' logo design Pull Over Hoodie! Hoodie is made with a 50% cotton, 50% polyester preshrunk fleece",
+        "tag": "apparel"
+    },
+    {
+        "id": 9,
+        "sku": "fullNewLogoHoodie",
+        "img": "fullNewLogoHoodie.png",
+        "title": "Hoodie | New AGT Logo",
+        "price": 35,
+        "description": "Show off the NEW AlwaysGametime Logo with this Pull Over Hoodie! Hoodie is made with a 50% cotton, 50% polyester preshrunk fleece",
+        "tag": "apparel"
+    },
+    {
+        "id": 10,
+        "sku": "fullOldLogoHoodie",
+        "img": "fullOldLogoHoodie.png",
+        "title": "Hoodie | Retro Logo",
+        "price": 25,
+        "description": "Represent the Retro Logo with this Pull Over Hoodie! Hoodie is made with a 50% cotton, 50% polyester preshrunk fleece",
+        "tag": "apparel"
+    },
+    {
+        "id": 11,
+        "sku": "whiteOldLogoHoodie",
+        "img": "whiteOldLogoHoodie.png",
+        "title": "Hoodie | Retro Logo - White",
+        "price": 30,
+        "description": "Simple WHITEOUT Retro Logo design Pull Over Hoodie! Hoodie is made with a 50% cotton, 50% polyester preshrunk fleece",
+        "tag": "apparel"
+    },
+    {
+        "id": 12,
+        "sku": "agtTextHat",
+        "img": "agtTextHat.png",
+        "title": "Hat | AGT Badge",
+        "price": 20,
+        "description": "A one size fits most SnapBack featuring the AGT Text Logo! This custom hat has an embroidered patch and breathable fabric inner lining",
+        "tag": "hats"
+    },
+    {
+        "id": 13,
+        "sku": "fullNewLogoHat",
+        "img": "fullNewLogoHat.png",
+        "title": "Hat | New AGT Logo",
+        "price": 20,
+        "description": "A one size fits most SnapBack featuring the New AGT Logo! This custom hat has an embroidered patch and breathable fabric inner lining",
+        "tag": "hats"
+    },
+    {
+        "id": 14,
+        "sku": "fullOldLogoHat",
+        "img": "fullOldLogoHat.png",
+        "title": "Hat | Retro Logo",
+        "price": 20,
+        "description": "A one size fits most SnapBack featuring the Retro Logo! This custom hat has an embroidered patch and breathable fabric inner lining",
+        "tag": "hats"
+    },
+    {
+        "id": 15,
+        "sku": "agtTextBeanie",
+        "img": "agtTextBeanie.png",
+        "title": "Beanie | AGT Badge",
+        "price": 15,
+        "description": "This beanie is a stretchy black beanie with a 3\" folded cuff. Embroidered on the center front of the cuff is the AGT Text Logo",
+        "tag": "hats"
+    },
+    {
+        "id": 16,
+        "sku": "fullNewLogoBeanie",
+        "img": "fullNewLogoBeanie.png",
+        "title": "Beanie | New AGT Logo",
+        "price": 15,
+        "description": "This beanie is a stretchy black beanie with a 3\" folded cuff. Embroidered on the center front of the cuff is the New Logo",
+        "tag": "hats"
+    },
+    {
+        "id": 17,
+        "sku": "fullOldLogoBeanie",
+        "img": "fullOldLogoBeanie.png",
+        "title": "Beanie | Retro Logo",
+        "price": 15,
+        "description": "This beanie is a stretchy black beanie with a 3\" folded cuff. Embroidered on the center front of the cuff is the Retro Logo",
+        "tag": "hats"
+    },
+    {
+        "id": 18,
+        "sku": "cartoonMug",
+        "img": "cartoonMug.png",
+        "title": "Mug | Cartoon Logo",
+        "price": 15,
+        "description": "Microwave safe Dishwasher safe black ceramic mug featuring the Cartoon 'Achieve' Logo. I personally use mine to drink hot chocolate",
+        "tag": "accessories"
+    },
+    {
+        "id": 19,
+        "sku": "newLogoMug",
+        "img": "newLogoMug.png",
+        "title": "Mug | New AGT logo",
+        "price": 15,
+        "description": "Microwave safe Dishwasher safe black ceramic mug featuring the NEW AlwaysGametime Logo. I personally use mine to drink hot chocolate",
+        "tag": "accessories"
+    },
+    {
+        "id": 20,
+        "sku": "oldLogoMug",
+        "img": "oldLogoMug.png",
+        "title": "Mug | Retro Logo",
+        "price": 15,
+        "description": "Microwave safe Dishwasher safe black ceramic mug featuring the Retro Logo. I personally use mine to drink hot chocolate",
+        "tag": "accessories"
+    },
+    {
+        "id": 21,
+        "sku": "newAGTLogoLanyard",
+        "img": "newAGTLogoLanyard.png",
+        "title": "Lanyard | New AGT Logo",
+        "price": 4,
+        "description": "Never lose your keys again with the new AGT Lanyard. Show off your keychain collection in style! Lanyard is 12in. in length",
+        "tag": "accessories"
+    },
+    {
+        "id": 22,
+        "sku": "notebook",
+        "img": "notebook.png",
+        "title": "Notebook | Retro Logo - Black",
+        "price": 9,
+        "description": "Take notes in style with this AGT Branded Notebook! Perfect for streamers / content creators to make lists. 6in X 9in 100 sheets of college-ruled lined paper",
+        "tag": "accessories"
+    },
+    {
+        "id": 23,
+        "sku": "fullOldLogoPop",
+        "img": "fullOldLogoPop.png",
+        "title": "Pop Socket | Retro Logo",
+        "price": 9,
+        "description": "Get a leg up on the competition while mobile gaming! These AGT branded popsockets are also perfect kickstands for media consumption",
+        "tag": "accessories"
+    },
+    {
+        "id": 24,
+        "sku": "newAGTLogoPop",
+        "img": "newAGTLogoPop.png",
+        "title": "Pop Socket | New AGT Logo",
+        "price": 9,
+        "description": "Get a leg up on the competition while mobile gaming! These AGT branded popsockets are also perfect kickstands for media consumption",
+        "tag": "accessories"
+    },
+    {
+        "id": 25,
+        "sku": "whiteOldAGTLogoPop",
+        "img": "whiteOldAGTLogoPop.png",
+        "title": "Pop Socket | Retro Logo - White",
+        "price": 9,
+        "description": "Get a leg up on the competition while mobile gaming! These AGT branded popsockets are also perfect kickstands for media consumption",
+        "tag": "accessories"
+    }
+]

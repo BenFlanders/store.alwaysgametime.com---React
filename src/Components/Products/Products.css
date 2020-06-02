@@ -1,0 +1,199 @@
+.container {
+    margin: 0 5rem;
+}
+
+.product-showcase {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.products {
+    width: 30rem;
+    height: 45rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.products h2 {
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-size: 1rem;
+}
+
+.products .price {
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+.product {
+    padding-top: 4rem;
+    width: 30rem;
+    height: 45rem;
+}
+
+.show {
+    display: block;
+}
+
+.product h2 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .3rem;
+    font-size: 1rem;
+}
+
+.product .price {
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.section-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-heading1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 22rem;
+}
+
+.section-heading h1, .section-heading1 h1 {
+    text-align: center;
+    color: black;
+    width: 40%;
+    font-size: 2rem;
+}
+
+.section-heading h2, .section-heading1 h2 {
+    text-align: center;
+    color: black;
+    width: 40%;
+    font-size: 2rem;
+}
+
+.line {
+    background-color: black;
+    width: 100%;
+    height: .25rem;
+}
+
+.instagram-section {
+    margin-top: 8rem;
+}
+
+.instagram-section .section-heading {
+    margin-bottom: 4rem;
+}
+
+.posts {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 8rem;
+}
+
+.insta1 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta1.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta2 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta2.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta3 {
+    width: 19.2em;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta3.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta4 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta4.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta5 {
+    width: 19.2rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta5.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta6 {
+    width: 19rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta6.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.insta7 {
+    width: 19rem;
+    height: 19.2rem;
+    background-image: url('../../imgs/insta7.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.filter {
+    width: 100%;
+    background-color: #242424;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 8rem;
+    position: fixed;
+    top: 8rem;
+}
+
+.filter-type {
+    font-size: 2rem;
+    display: inline-block;
+    padding-right: 5rem;
+}
+
+label {
+    font-size: 1.6rem;
+    padding: 0 .5rem 0 2rem;
+}
+
+@media only screen and (max-width: 800px) {
+    .filter-type {
+        font-size: 1.4rem;
+        padding-right: 0;
+        display: block;
+    }
+    .label {
+        padding: 0;
+        margin-left: -3rem;
+    }
+    .filter {
+        padding: 1rem;
+    }
+}

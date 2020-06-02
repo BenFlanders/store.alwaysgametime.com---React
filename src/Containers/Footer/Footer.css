@@ -1,0 +1,174 @@
+.container {
+    margin: 0 5rem;
+}
+
+footer {
+    height: 45rem;
+    position: relative;
+    background-color: #fff;
+    clear: both;
+    z-index: 300;
+}
+
+.border {
+    display: block;
+    width: 100%;
+    height: .2rem;
+    background-color: #999;
+}
+
+.footer-bottom {
+    min-height: 15rem;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.footer-bottom__links li {
+    display: inline-block;
+    padding-right: 2rem;
+}
+
+.footer-bottom__icons li {
+    display: inline-block;
+    font-size: 3rem;
+    padding-right: 1rem;
+}
+
+.footer-bottom__links a {
+    color: #242424;
+    text-decoration: underline;
+    font-size: 1.3rem;
+}
+
+.footer-bottom__links a:hover {
+    color: #003457;
+}
+
+.footer-bottom p {
+    font-size: 1.3rem;
+}
+
+.footer-top {
+    width: 100%;
+    padding-top: 4rem;
+    display: flex;
+    justify-content: space-around;
+    min-height: 26rem;
+}
+
+.footer-third {
+    width: 33%;
+    padding-left: 19rem;
+}
+
+.footer-third:nth-child(1) {
+    padding-left: 0;
+}
+
+.top {
+    margin-bottom: 4rem;
+}
+
+.footer-third h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.footer-third h5 {
+    font-size: 1.4rem;
+    margin-bottom: .2rem;
+}
+
+.footer-third li {
+    list-style: none;
+    text-align: left;
+    padding: 1rem 0;
+    font-size: 1.3rem;
+}
+
+.footer-third a {
+    color: #242424;
+    text-decoration: underline;
+}
+
+.footer-third a:hover {
+    color: #003457;
+}
+
+.footer-third p {
+    font-size: 1.2rem;
+    padding-top: .3rem;
+}
+
+.footer-third i {
+    font-size: 3.5rem;
+    padding: .2rem;
+}
+
+.bottom {
+    position: absolute;
+    right: 9rem;
+    bottom: 3.5rem;
+}
+
+.bottom h5 {
+    margin-bottom: .5rem;
+    font-size: 1.4rem;
+}
+
+#email {
+    width: 30rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    display: block;
+    margin-bottom: 2rem;
+    border: 2px solid #242424;
+    padding: 1rem;
+}
+
+.email-button {
+    width: 10rem;
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    background-color: #242424;
+    border: 2px solid #242424;
+    color: white;
+    transition: all .3s;
+}
+
+.email-button:hover {
+    background-color: #e7e7e7;
+    color: #242424;
+}
+
+@media only screen and (max-width: 1140px) {
+    .bottom {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .footer-third {
+        padding-left: 10rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    footer {
+        height: 80rem;
+    }
+    .footer-top {
+        flex-direction: column;
+        min-height: 60rem;
+    }
+    .footer-third {
+        width: 100%;
+        padding: 0;
+    }
+    .footer-bottom {
+        bottom: 2%;
+    }
+}
